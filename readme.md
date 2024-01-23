@@ -1,3 +1,5 @@
+JavaScript + Css + HTMl 
+
 Pasos:
  1) Ubico desde el html el orden de los botones y signos que vand entro de la calculadora.
  2) Les doy estilos a los botones
